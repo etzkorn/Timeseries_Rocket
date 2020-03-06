@@ -1,2 +1,4 @@
 # Timeseries_Rocket
- Final project for timeseries course.
+ This repository contains the final project for timeseries course.
+ 
+ 
