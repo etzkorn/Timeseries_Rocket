@@ -1,0 +1,8 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+# Project Goal
+
+At any point in time $t$ we need to give an estimate of the time of apogee--the time at which the rocket reaches its maximum altitude.
